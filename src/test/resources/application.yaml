@@ -1,0 +1,8 @@
+# Определить здесь параметры для целевого url и эндпоинта users
+server:
+  port: 8080
+
+api:
+  base-url: https://reqres.in
+  endpoints:
+    users: /api/users

@@ -1,0 +1,12 @@
+/.gradle
+/.allure
+/.idea
+/.properties
+**/.DS_Store
+/.bat
+/.log
+/build/
+/forsending/
+/gradlew
+/settings.gradle
+/allure-results/
